@@ -1,3 +1,4 @@
+// This module will handle all the transition and color effects in project 
 #include "Consoleutil.h"
 #include <iostream>
 #include <cstdlib>

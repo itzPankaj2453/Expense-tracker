@@ -1,3 +1,4 @@
+// This module is designed to store the entries and login status of an user , it supports multiple users and saves entries in different files on the basis of user
 #include "User.h"
 #include "Consoleutil.h"
 #include <iostream>

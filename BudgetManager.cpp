@@ -1,3 +1,4 @@
+// This module is designed to store the Budget and Expenses 
 #include "BudgetManager.h"
 #include "Consoleutil.h"
 #include <iostream>
